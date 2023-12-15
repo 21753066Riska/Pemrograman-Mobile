@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_result" type="id">TV Result</item>
+    <item name="btn_move_for_result" type="id">Move For Result</item>
+</resources>
